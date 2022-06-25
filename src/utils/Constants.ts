@@ -1,0 +1,10 @@
+export const PHONE_VALIDATION_REGIX = /(^((\+|00)966|0)?5(5|0|3|6|4|9|1|8|7)([0-9]{7})$)|(^((00|\+)2)?01([0-2]|5)[0-9]{8}$)/;
+export const PHONE_VALIDATION_REGIX_KSA = /^((\+|00)966|0)?5(5|0|3|6|4|9|1|8|7)([0-9]{7})$/;
+export const PHONE_VALIDATION_REGIX_KSA_WITHOUT_CODE = /^(0)?5(5|0|3|6|4|9|1|8|7)([0-9]{7})$/;
+export const PHONE_VALIDATION_REGIX_EGYPT = /^((00|\+)2)?01([0-2]|5)[0-9]{8}$/;
+export const PHONE_VALIDATION_REGIX_EGYPT_WITHOUT_CODE = /^(0)?1([0-2]|5)[0-9]{8}$/;
+export const PASSWORD_VALIDATION_REGIX = /^(?=.*[A-Za-z])(?=.*[0-9])[A-Za-z\d$@$!%_*_#?£¢€¥&-_.]{8,}$/;
+export const NAME_VALIDATION_REGEX = /^[\u0621-\u064Aa-zA-Z]+[\u0621-\u064Aa-zA-Z ]*$/;
+export const EMAIL_VALIDATION_REGEX = /^[a-zA-Z]([\.]{0,1}[a-zA-Z0-9])*@([a-zA-Z][a-zA-Z0-9-]*)\.[a-zA-Z][a-zA-Z0-9]{1,3}$/;
+export const NEW_PHONE_VALIDATION_REGIX_KSA = /^((?:[+?0?0?966]+)(?:\s?\d{2})(?:\s?\d{7}))$/;
+let PlayerElement: any | undefined = undefined;

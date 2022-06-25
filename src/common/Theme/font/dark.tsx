@@ -1,0 +1,33 @@
+ 
+export const DARK_FONTS = {
+  android: {
+    Tajawal: 'ArbFONTS-Tajawal-Regular',
+    Tajawal_Regular: 'ArbFONTS-Tajawal-Regular',
+    Tajawal_Bold: 'ArbFONTS-Tajawal-Bold',
+    'Tajawal Black': 'ArbFONTS-Tajawal-Black',
+    Tajawal_Black: 'ArbFONTS-Tajawal-Black',
+    'Tajawal ExtraBold': 'ArbFONTS-Tajawal-ExtraBold',
+    Tajawal_ExtraBold: 'ArbFONTS-Tajawal-ExtraBold',
+    'Tajawal ExtraLight': 'ArbFONTS-Tajawal-ExtraLight',
+    Tajawal_ExtraLight: 'ArbFONTS-Tajawal-ExtraLight',
+    'Tajawal Light': 'ArbFONTS-Tajawal-Light',
+    Tajawal_Light: 'ArbFONTS-Tajawal-Light',
+    'Tajawal Medium': 'ArbFONTS-Tajawal-Medium',
+    Tajawal_Medium: 'ArbFONTS-Tajawal-Medium',
+  },
+  ios: {
+    Tajawal: 'Tajawal',
+    Tajawal_Regular: 'Tajawal-Regular',
+    Tajawal_Bold: 'Tajawal-Bold',
+    'Tajawal Black': 'Tajawal Black',
+    Tajawal_Black: 'Tajawal-Black',
+    'Tajawal ExtraBold': 'Tajawal ExtraBold',
+    Tajawal_ExtraBold: 'Tajawal-ExtraBold',
+    'Tajawal ExtraLight': 'Tajawal ExtraLight',
+    Tajawal_ExtraLight: 'Tajawal-ExtraLight',
+    'Tajawal Light': 'Tajawal Light',
+    Tajawal_Light: 'Tajawal-Light',
+    'Tajawal Medium': 'Tajawal Medium',
+    Tajawal_Medium: 'Tajawal-Medium',
+  },
+};

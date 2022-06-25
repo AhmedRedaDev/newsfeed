@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "scheme": "newsfeed",
+    "name": "Newsfeed",
+    "slug": "Newsfeed",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Newsfeed"
+}
